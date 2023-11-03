@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 24" width="12" height="24">
+	<title>icon</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 16px;fill: #ffffff;font-family: "Font Awesome" } 
+	</style>
+	<text id="icon" style="transform: matrix(1.517,0,0,1.517,-0.703,20.604)" >
+		<tspan x="0" y="0" class="t0">
+</tspan>
+	</text>
+</svg>
